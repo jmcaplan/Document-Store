@@ -1,5 +1,5 @@
 # Document-Store
-Semester project for Data Structures course, stores documents and allows search and pdf/txt conversion
+Semester project for Data Structures course, stores documents and allows search, undo, and pdf/txt conversion
 
 - Built HashTable and later B-Tree from scratch to store documents in memory and on disk
 - Serialized documents for storage as .json files using GSON library
